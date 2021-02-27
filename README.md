@@ -1,4 +1,4 @@
-# Mini-INTERNSHIP-Project
+# Mini-INTERNSHIP-PROJECT
 Project Title:-Multi-Traffic Scene Perception Based on Supervised Learning
 Objective: 
                 Highway traffic accidents bring huge losses to people's lives and property. The advanced driver assistance systems (ADAS) play a significant role in reducing traffic accidents. Multi-traffic scene perception of complex weather condition is a piece of valuable information for assistance systems. Based on different weather category, specialized approaches can be used to improve visibility. This will contribute to expand the application of ADAS.
