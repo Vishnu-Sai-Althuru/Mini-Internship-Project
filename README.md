@@ -28,12 +28,15 @@ Hardware Requirements:
 	Network connectivity
 
 Abstract:
+
 	Traffic accidents are especially intense for a rainy day, Night, rainy season, rainy season, ice and day without street lightingMany low-level conditions. Current View Drive systems are designed to be done under good-nature Weather. Classification is a method of identifying Optical characteristics of vision expansion protocols More efficient. Improve computer vision in awkward manner Weather environments, multi-class weather classification system Many weather features and supervision were made Learning. First, basic visual features are extracted Multiple traffic pictures, then the feature is revealed .The team has eight dimensions. Secondly, five supervision was made Learning methods are used to train instructors. Analysis the extracted features indicate that the image describes accurately the highest recognition of etymology and classmates is the accuracy rate and adaptive skills. Provides the basis for the proposed method anterior vehicle innovation increases invention Night light changes, as well as increases View of driving field on an ice day. Image feature extraction is the most important process in pattern recognition and it is the most efficient way to simplify high-dimensional image data. Because it is hard to obtain some information from the M × N × 3 dimensional image matrix. Therefore, owing to perceive multi-traffic scene, the key information must be extracted from the image.
 
 EXISTING SYSTEM:
+
 Highway traffic accidents bring mass losses to people's lives and property. Advanced driver assistants (ADAS) play an important role in reducing traffic accidents. A multi-traffic display of complex weather conditions is valuable information for help organizations. Special approaches can be used to improve visibility based on different weather conditions. This will contribute to the expansion of ADAS. There have been little work in weather-related issues for automotive cameras so far. Classification of interior and exterior images through the margin intensity. Concentration curves to form four fog levels by a neural network. Providing a novel structure to recognize different climates. Milford and many others. Current view-based localization and mapping in altering external environments. Find important changes Driving is an important task during driving Help Systems. propose a sight-based skyline Finding algorithms under picture brightness variations Fu and Al. Automatic traffic data collection varies Lighting conditions. Freatch and many others. Classes to use Detecting road segment in many traffic scenes. 
 
 DISADVANTAGES:
+
     1. Not cleared detect the weather conditions for in this process.
     2. Traffic analysis is not accurate the predict the final report for weather conditions.
     3. Weather report is not cleared so accident is increased.
@@ -43,6 +46,7 @@ PROPOSED SYSTEM:
 Image feature extraction is the premise step of supervised learning. It is divided into global feature extraction and local feature extraction. In the work, we are interested in the entire image, the global feature descriptions are suitable and conducive to understand complex image. Therefore, multi-traffic scene perception more concerned about global features, such as color distribution, texture features outdoor conditions. Propose night image enhancement method in order to improve nighttime driving and reduce rear-end accident. Present an effective nighttime vehicle detection system based on image enhancement. Present an image enhancement algorithm for low-light scenes in an environment with insufficient illumination. Propose an image fusion technique to improve imaging quality in low light shooting. Present global and local contrast measurements method for single-image defogging. Present single image dehazing by using of dark channel model. Present a novel histogram reshaping technique to make color image more intuitive. Present a framework that uses the textural content of the images to guide the color transfer and colorization. In order to improve visibility.Propose an improved EM method to transfer selective colors from a set of source images to a target image propose a multi-vehicle detection and tracking system and it is evaluated by roadway video captured in a variety of illumination and weather conditions. Propose a vehicle detection method on seven different weather images that captured varying road, traffic, and weather conditions. So reduce the traffic and accident issues.
 
 ADVANTAGES:
+
     1. Predict the accurate weather conditions for this process.
     2. Reduce the traffic issues and another one is accident issues it is major one of problems for nowadays.
     3. Using digital image processing so time consume is save
