@@ -25,8 +25,11 @@ Software Requirements:
 Hardware Requirements:
 
 	Processor: Intel i3 and above
+
 	RAM: 4GB and Higher
+
 	Hard Disk: 500GB: Minimum
+
 	Network connectivity
 
 Abstract:
@@ -61,9 +64,13 @@ In the future, the proposed algorithms will need to be further verified by the l
 References:
 
 [1] A. Payne and S. Singh, "Indoor vs. outdoor scene classification in digital photographs," Pattern Recognition, vol. 38, no. 10, pp. 1533-1545, Oct 2005.
+
 [2] C. Lu, D. Lin, J. Jia, and C.-K. Tang, "Two-Class Weather Classification," IEEE transactions on pattern analysis and machine intelligence, 2016-Dec-15 2016.
+
 [3] Y. Lee and G. Kim, "Fog level estimation using non-parametric intensity curves in road environments," Electron. Lett., vol. 53, no. 21, pp. 1404-1406, 2017.
+
 [4] C. Zheng, F. Zhang, H. Hou, C. Bi, M. Zhang, and B. Zhang, "Active Discriminative Dictionary Learning for Weather Recognition," Mathematical Problems in Engineering, 2016 2016, Art. no. 8272859.
+
 [5] M. Milford, E. Vig, W. Scheirer, and D. Cox, "Vision-based Simultaneous Localization and Mapping in Changing Outdoor Environments," Journal of Field Robotics, vol. 31, no. 5, pp. 814-836, Sep-Oct 2014.
 
         
