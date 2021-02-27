@@ -7,19 +7,29 @@ Objective:
 Technologies used:
 
 	PYTHON
+
        JUPYTER NOTEBOOK
+
 	TENSOR FLOW
+
 	KERAS
+
 	PILLOW
+
 	PANDAS
+
        NUMPY
 
 Software Requirements:
 
 	Python  IDE : python 2.7.x and above
+
        Jupyter IDE
+
        Setup tools and pip to be installed for 3.6  and above
+
        Language   : Python Scripting
+
 	Microsoft Windows or Linux
 
 Hardware Requirements:
@@ -72,6 +82,7 @@ References:
 [4] C. Zheng, F. Zhang, H. Hou, C. Bi, M. Zhang, and B. Zhang, "Active Discriminative Dictionary Learning for Weather Recognition," Mathematical Problems in Engineering, 2016 2016, Art. no. 8272859.
 
 [5] M. Milford, E. Vig, W. Scheirer, and D. Cox, "Vision-based Simultaneous Localization and Mapping in Changing Outdoor Environments," Journal of Field Robotics, vol. 31, no. 5, pp. 814-836, Sep-Oct 2014.
+
 
         
         
