@@ -10,7 +10,8 @@ Technologies used:
 	TENSOR FLOW
 	KERAS
 	PILLOW
-	PANDAS	
+	PANDAS
+       NUMPY
 
 Software Requirements:
 
