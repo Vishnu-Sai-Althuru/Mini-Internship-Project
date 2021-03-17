@@ -12,7 +12,7 @@ Technologies used:-
 	
 	PYTHON
 
-        JUPYTER NOTEBOOK
+    JUPYTER NOTEBOOK
 
 	TENSOR FLOW
 
@@ -22,20 +22,20 @@ Technologies used:-
 
 	PANDAS
 
-        NUMPY
+    NUMPY
 
 
 Software Requirements:-
 
 	Python  IDE : python 2.7.x and above
 
-        Jupyter IDE
+    Jupyter IDE
 
-        Setup tools and pip to be installed for 3.6  and above
+    Setup tools and pip to be installed for 3.6  and above
 
-        Language : Python Scripting
+    Language : Python Scripting
 
-	Microsoft Windows or Linux
+    Microsoft Windows or Linux
 
 
 Hardware Requirements:-
