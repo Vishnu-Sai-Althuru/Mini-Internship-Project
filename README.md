@@ -8,43 +8,43 @@ Objective:-
 
 Technologies used:-
 
-•	PYTHON
+	PYTHON
 
-       JUPYTER NOTEBOOK
+        JUPYTER NOTEBOOK
 
-	TENSOR FLOW
+	TENSOR FLOW
 
-	KERAS
+	KERAS
 
-	PILLOW
+	PILLOW
 
-	PANDAS
+	PANDAS
 
-       NUMPY
+        NUMPY
 
 
 Software Requirements:-
 
-	Python  IDE : python 2.7.x and above
+	Python  IDE : python 2.7.x and above
 
-       Jupyter IDE
+        Jupyter IDE
 
-       Setup tools and pip to be installed for 3.6  and above
+        Setup tools and pip to be installed for 3.6  and above
 
-       Language   : Python Scripting
+        Language : Python Scripting
 
-	Microsoft Windows or Linux
+	Microsoft Windows or Linux
 
 
 Hardware Requirements:-
 
-	Processor: Intel i3 and above
+	Processor: Intel i3 and above
 
-	RAM: 4GB and Higher
+	RAM: 4GB and Higher
 
-	Hard Disk: 500GB: Minimum
+	Hard Disk: 500GB: Minimum
 
-	Network connectivity
+	Network connectivity
 
 
 Abstract:-
