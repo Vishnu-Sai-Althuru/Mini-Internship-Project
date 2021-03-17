@@ -8,9 +8,9 @@ Objective:-
 
 Technologies used:-
 
-	PYTHON
+•	PYTHON
 
-       JUPYTER NOTEBOOK
+       JUPYTER NOTEBOOK
 
 	TENSOR FLOW
 
