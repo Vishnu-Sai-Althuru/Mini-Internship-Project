@@ -76,8 +76,11 @@ ADVANTAGES:-
 
 Conclusion:-     
 
-   Weather recognition based on road images is a brand-newand challenging subject, which is widely required in manyfields. Hence, research of weather recognition based on imagesis in urgent demand, which can be used to recognize theweather conditions for many vision systems. Classification is amethodology to identify the type of optical characteristics forvision enhancement algorithms to make them more efficient. In this paper, eight global underlying visual features areextracted and five supervised learning algorithms are used toperceive multi-traffic road scene. Firstly, our method extractscolour features, texture features and boundary feature which areused to evaluate the image quality. It proved that the proposed eight features not only can accurately describe image characteristics, but also have strong robustness and stability at the complex weather environment and the ELM algorithm is superior to other algorithms.
-In the future, the proposed algorithms will need to be further verified by the larger image set. Integrated learning is a new paradigm in machine learning field. It is worth to be studied improve the generalization of a machine learning system. And visual image enhancement algorithms in fog and night time applied to general image are worth to be further studied.
+   Weather recognition based on road images is a brand-newand challenging subject, which is widely required in manyfields. Hence, research of weather recognition based on imagesis in urgent demand, which can be used to recognize theweather conditions for many vision systems. 
+   Classification is amethodology to identify the type of optical characteristics forvision enhancement algorithms to make them more efficient. In this paper, eight global underlying visual features areextracted and five supervised learning algorithms are used toperceive multi-traffic road scene. Firstly, our method extractscolour features, texture features and boundary feature which areused to evaluate the image quality. 
+   It proved that the proposed eight features not only can accurately describe image characteristics, but also have strong robustness and stability at the complex weather environment and the ELM algorithm is superior to other algorithms.
+In the future, the proposed algorithms will need to be further verified by the larger image set. 
+Integrated learning is a new paradigm in machine learning field. It is worth to be studied improve the generalization of a machine learning system. And visual image enhancement algorithms in fog and night time applied to general image are worth to be further studied.
 
 References:-
 
@@ -93,6 +96,5 @@ References:-
 
 
         
-        
-        Here By Attaching Link Of My Mini-Project:-  https://github.com/Vishnu-Sai-Althuru/Mini-Internship-Project/edit/master/README.md
+       
                    
